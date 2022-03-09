@@ -1,0 +1,75 @@
+body {
+  background-image: url("101.jpg");
+  background-color: rgb(77, 72, 72);
+  /*background-size: cover;*/
+
+}
+/*CLASES*/
+.encabezado {
+  width: 80%;
+  height: 150px;
+  margin: auto;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  color: rgb(255, 255, 255);
+  background-color: rgba(20, 41, 105, 0.918);
+}
+.encabezado .tecnologa {
+  text-align: center;
+  left: 500px;
+  top: 130px;
+}
+h1 {
+  text-align: center;
+  position: relative;
+  font-size: 50px;
+  top: 40px;
+}
+img {
+  width: 120px;
+  height: 130px;
+  margin: 0px;
+  position: relative;
+  right: 400px;
+  border-radius: 500%;
+  top: -120px;
+}
+
+.acerca-de-mi {
+  width: 30%;
+  height: 100%;
+  margin-left: 133px;
+  position: relative;
+  background-color: rgb(88, 164, 247);
+  text-align: justify;
+  color: white;
+  font-family: calibri;
+  padding: 10px;
+}
+h3 {
+  color: rgba(20, 41, 105, 0.918);
+}
+h2 {
+  background-color: rgba(20, 41, 105, 0.918);
+  color: white;
+  padding: 7px;
+  font-family: calibri;
+}
+
+.experiencia {
+  width: 46.1%;
+  height: 941px;
+  padding: 12px;
+  text-align: justify;
+  position: absolute;
+  left: 561px;
+  top: 30.2%;
+  background-color: rgb(252, 252, 252);
+  font-family: calibri;
+}
+
+
+
+
+

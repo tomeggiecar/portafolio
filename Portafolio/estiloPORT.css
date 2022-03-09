@@ -1,0 +1,153 @@
+body {
+  background-image: url("git1.png");
+  font-size: 12px;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans";
+  color: white;
+  font-size: 27px;
+}
+.nombre{
+  text-align: center;
+  font-family: "Lucida Sans";
+  color: white;
+}
+/*
+h2{
+    text-align: center;
+    font-family: lucida Sans;
+    font-size: large;
+    color: rgb(22, 36, 48);
+}
+*/
+
+section {
+  padding: 7px;
+  background-color: rgba(102, 102, 212, 0.753);
+  margin: 15px;
+  width: auto;
+  height: 220px;
+  text-align: right;
+  border-radius: 12px;
+}
+.imagen1 {
+  border-radius: 100px;
+  width: 10%;
+  left: 30%;
+  box-shadow: 5px 5px 0px rgb(51, 60, 73);
+  margin: 115px;
+  margin-top: -90px;
+}
+.git {
+  width: 60px;
+  right: 23%;
+  left: 30%;
+  margin: 115px;
+  margin-top: -45px;
+  position: relative;
+  left: 1100px;
+}
+.github {
+  width: 60px;
+  right: 23%;
+  left: 30%;
+  margin: 115px;
+  margin-top: -45px;
+  position: relative;
+  left: 730px;
+}
+.parrafo {
+  text-align: left;
+  text-decoration: dashed;
+  color: white;
+}
+
+footer {
+  width: auto;
+  height: 55px;
+  background-color: rgb(128, 132, 136);
+  padding: 10px;
+  margin: 12px;
+  border-radius: 12px;
+}
+article {
+  background-color: rgb(167, 135, 243);
+  padding: 10px;
+  margin: 12px;
+  width: auto;
+  height: 100px;
+}
+header {
+  width: 100%;
+}
+.titulo1 {
+  border-radius: nullpx;
+  font-family: "Lucida Sans";
+  font-size: x-large;
+  font-style: normal;
+  font-weight: 500;
+
+  text-align: center;
+}
+.barra-superior .barratitulopor .titulo1 {
+  border-radius: nullpx;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+}
+
+.titulo2 {
+  font-size: large;
+  text-align: center;
+  right: auto;
+  margin: auto;
+  font-family: "Lucida Sans";
+  color: rgb(3, 0, 3);
+}
+
+li {
+  color: white;
+  font-size: large;
+  font-family:"Lucida Sans";
+  text-align: left;
+}
+.columna {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 250px;
+}
+.columna .articulo1 {
+  height: 170px;
+  width: 190px;
+  border-radius: 12px;
+  padding: 6px;
+  border: solid 3px rgb(62, 62, 241);
+}
+.columna .articulo2 {
+  height: 170px;
+  width: 190px;
+  border-radius: 12px;
+  padding: 6px;
+  border: solid 3px rgb(62, 62, 241);
+}
+.columna .articulo3 {
+  height: 170px;
+  width: 190px;
+  border: solid, 1px;
+  border-radius: 12px;
+  padding: 6px;
+  border: solid 3px rgb(62, 62, 241);
+}
+.boton{
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  background-position: 50% 50%;
+  background-image: url("git1.png");
+}
